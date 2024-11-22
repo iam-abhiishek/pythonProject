@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4897b4b9-f61c-4bf3-9189-6cd2765e6b1f" name="Changes" comment="code added 1,2,3">
-      <change afterPath="$PROJECT_DIR$/Python_Learning/15Nov2024/ex_5_Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Learning/15Nov2024/ex_6_Dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Learning/15Nov2024/ex_7_Dictionary.py" afterDir="false" />
+    <list default="true" id="4897b4b9-f61c-4bf3-9189-6cd2765e6b1f" name="Changes" comment="changes in code 7">
+      <change afterPath="$PROJECT_DIR$/Python_Learning/15Nov2024/ex_10_Range_Datatype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/15Nov2024/ex_11_Dictionary_Datatype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/15Nov2024/ex_8_Variables1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/15Nov2024/ex_9_Datatype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_12_Number_System_Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_13_Complement_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_14_Bitwise_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_15_Import_Math_Function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Learning/15Nov2024/ex_4_Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Learning/15Nov2024/ex_4_Tuple.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +56,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.ex_1.executor": "Run",
+    "Python.ex_10_Range_Datatype.executor": "Run",
+    "Python.ex_11_Dictionary_Datatype.executor": "Run",
+    "Python.ex_12_Number_System_Conversion.executor": "Run",
+    "Python.ex_13_Complement_Operator.executor": "Run",
+    "Python.ex_14_Bitwise_Operator.executor": "Run",
+    "Python.ex_15_Import_Math_Function.executor": "Run",
     "Python.ex_3_List.executor": "Run",
     "Python.ex_4_Tuple.executor": "Run",
     "Python.ex_5_Set.executor": "Run",
     "Python.ex_6_Dictionary.executor": "Run",
     "Python.ex_7_Dictionary.executor": "Run",
+    "Python.ex_8_Variables1.executor": "Run",
+    "Python.ex_9_Datatype.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -106,13 +118,31 @@
       <option name="project" value="LOCAL" />
       <updated>1731679717799</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="code added 5,6,7">
+      <option name="closed" value="true" />
+      <created>1731693339200</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731693339200</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changes in code 7">
+      <option name="closed" value="true" />
+      <created>1731693487289</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731693487289</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="15 Nov code added" />
     <MESSAGE value="code added" />
     <MESSAGE value="code added 1,2,3" />
-    <option name="LAST_COMMIT_MESSAGE" value="code added 1,2,3" />
+    <MESSAGE value="code added 5,6,7" />
+    <MESSAGE value="changes in code 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes in code 7" />
   </component>
 </project>
