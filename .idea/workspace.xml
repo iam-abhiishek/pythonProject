@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4897b4b9-f61c-4bf3-9189-6cd2765e6b1f" name="Changes" comment="changes in code 7">
-      <change afterPath="$PROJECT_DIR$/Python_Learning/15Nov2024/ex_10_Range_Datatype.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Learning/15Nov2024/ex_11_Dictionary_Datatype.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Learning/15Nov2024/ex_8_Variables1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Learning/15Nov2024/ex_9_Datatype.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_12_Number_System_Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_13_Complement_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_14_Bitwise_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_15_Import_Math_Function.py" afterDir="false" />
+    <list default="true" id="4897b4b9-f61c-4bf3-9189-6cd2765e6b1f" name="Changes" comment="22 nov">
+      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_16_Swap_Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_17_User_Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_18_While_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_19_String_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_20_Greatest_Among_3_Num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_21_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_22_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_23_List_Practice_Ques.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_24_Tuple_Practice_Ques.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +63,15 @@
     "Python.ex_13_Complement_Operator.executor": "Run",
     "Python.ex_14_Bitwise_Operator.executor": "Run",
     "Python.ex_15_Import_Math_Function.executor": "Run",
+    "Python.ex_16_Swap_Variable.executor": "Run",
+    "Python.ex_17_User_Input.executor": "Run",
+    "Python.ex_18_While_Loop.executor": "Run",
+    "Python.ex_19_String_Functions.executor": "Run",
+    "Python.ex_20_Greatest_Among_3_Num.executor": "Run",
+    "Python.ex_21_List.executor": "Run",
+    "Python.ex_22_Tuple.executor": "Run",
+    "Python.ex_23_List_Practice_Ques.executor": "Run",
+    "Python.ex_24_Tuple_Practice_Ques.executor": "Run",
     "Python.ex_3_List.executor": "Run",
     "Python.ex_4_Tuple.executor": "Run",
     "Python.ex_5_Set.executor": "Run",
@@ -70,7 +80,8 @@
     "Python.ex_8_Variables1.executor": "Run",
     "Python.ex_9_Datatype.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -134,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731693487289</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="22 nov">
+      <option name="closed" value="true" />
+      <created>1732300213340</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732300213340</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -143,6 +162,21 @@
     <MESSAGE value="code added 1,2,3" />
     <MESSAGE value="code added 5,6,7" />
     <MESSAGE value="changes in code 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes in code 7" />
+    <MESSAGE value="22 nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="22 nov" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_Learning/22Nov2024/ex_16_Swap_Variable.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_Learning/22Nov2024/ex_18_While_Loop.py</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
