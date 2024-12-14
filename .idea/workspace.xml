@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4897b4b9-f61c-4bf3-9189-6cd2765e6b1f" name="Changes" comment="22 nov">
-      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_16_Swap_Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_17_User_Input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_18_While_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_19_String_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_20_Greatest_Among_3_Num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_21_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_22_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_23_List_Practice_Ques.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Learning/22Nov2024/ex_24_Tuple_Practice_Ques.py" afterDir="false" />
+    <list default="true" id="4897b4b9-f61c-4bf3-9189-6cd2765e6b1f" name="Changes" comment="29 nov">
+      <change afterPath="$PROJECT_DIR$/Python_Learning/29Nov2024/File_Input_Output.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/29Nov2024/ex_25_while_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/29Nov2024/ex_26_for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/29Nov2024/ex_27_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/29Nov2024/ex_OOPS_concept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/29Nov2024/ex_OOPS_concept1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/29Nov2024/ex_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/29Nov2024/ex_loops_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Learning/29Nov2024/ex_recursion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,18 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "iam-abhiishek"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;iam-abhiishek&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/iam-abhiishek/pythonProject.git",
-    "accountId": "fb23c35c-a9aa-4940-b906-132302ccf80b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/iam-abhiishek/pythonProject.git&quot;,
+    &quot;accountId&quot;: &quot;fb23c35c-a9aa-4940-b906-132302ccf80b&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -72,6 +72,9 @@
     "Python.ex_22_Tuple.executor": "Run",
     "Python.ex_23_List_Practice_Ques.executor": "Run",
     "Python.ex_24_Tuple_Practice_Ques.executor": "Run",
+    "Python.ex_25_while_loop.executor": "Run",
+    "Python.ex_26_for_loop.executor": "Run",
+    "Python.ex_27_range.executor": "Run",
     "Python.ex_3_List.executor": "Run",
     "Python.ex_4_Tuple.executor": "Run",
     "Python.ex_5_Set.executor": "Run",
@@ -79,6 +82,11 @@
     "Python.ex_7_Dictionary.executor": "Run",
     "Python.ex_8_Variables1.executor": "Run",
     "Python.ex_9_Datatype.executor": "Run",
+    "Python.ex_OOPS_concept.executor": "Run",
+    "Python.ex_OOPS_concept1.executor": "Run",
+    "Python.ex_functions.executor": "Run",
+    "Python.ex_loops_IQ.executor": "Run",
+    "Python.ex_recursion.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
@@ -92,7 +100,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
       </set>
     </attachedChunks>
   </component>
@@ -153,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732300213340</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="29 nov">
+      <option name="closed" value="true" />
+      <created>1732888238496</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732888238496</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -163,7 +179,8 @@
     <MESSAGE value="code added 5,6,7" />
     <MESSAGE value="changes in code 7" />
     <MESSAGE value="22 nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="22 nov" />
+    <MESSAGE value="29 nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="29 nov" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -173,8 +190,12 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python_Learning/22Nov2024/ex_18_While_Loop.py</url>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/Python_Learning/29Nov2024/ex_loops_IQ.py</url>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python_Learning/29Nov2024/ex_functions.py</url>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
